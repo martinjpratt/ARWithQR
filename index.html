@@ -9,12 +9,11 @@
     <script src="https://raw.githack.com/donmccurdy/aframe-extras/master/dist/aframe-extras.loaders.min.js"></script>
 
     <body style='margin : 0px; overflow: hidden;'>
-        <!-- we add detectionMode and matrixCodeType to tell AR.js to recognize barcode markers -->
-        <a-scene embedded arjs='sourceType: webcam;'>
-	        <a-assets>
-           		<a-asset-item id="animated-asset" src="https://martinjpratt.github.io/ARWithQR/models/untitled.fbx"></a-asset-item>
-	        </a-assets>
-	        <a-marker-camera preset='hiro'></a-marker-camera>
-        </a-scene>
+         <a-scene embedded arjs>
+    <!-- create your content here. just a box for now -->
+    <a-box position='0 0.5 0' material='opacity: 0.5;'></a-box>
+    <!-- define a camera which will move according to the marker position -->
+    <a-marker-camera preset='hiro'></a-marker-camera>
+  </a-scene>
     </body>
 </html>
