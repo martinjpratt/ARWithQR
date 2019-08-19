@@ -175,14 +175,14 @@
       "componentType": 5126,
       "count": 718,
       "max": [
-        8.1460335366045911e-08,
-        8.1460335366045911e-08,
+        8.1460342471473268e-08,
+        8.1460342471473268e-08,
         1,
         1
       ],
       "min": [
-        -4.0730167683022955e-08,
-        -7.0260654183584847e-08,
+        -4.0730171235736634e-08,
+        -7.0260661289012205e-08,
         -0.86251366138458252,
         -0.5
       ],
@@ -214,7 +214,7 @@
     "extras": {
       "author": "martinjpratt (https://sketchfab.com/martinjpratt)",
       "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
-      "source": "https://sketchfab.com/3d-models/untitled-168ca829b84e42c4aee4e06cf1b72fda",
+      "source": "https://sketchfab.com/3d-models/untitled-095b75d9b8664b778c082e9cef91b17b",
       "title": "Untitled"
     },
     "generator": "Sketchfab-6.4.0",
@@ -387,7 +387,7 @@
         0,
         1
       ],
-      "name": "58f50dddf9ac4326a0938e945196b111.fbx"
+      "name": "617fc2855ca34835b2d8d711f28e81fd.fbx"
     },
     {
       "children": [
@@ -410,15 +410,15 @@
       ],
       "name": "Text",
       "rotation": [
-        8.1460335366045911e-08,
+        8.1460342471473268e-08,
         0,
         0,
         1
       ],
       "scale": [
-        100,
-        100,
-        100
+        10,
+        10,
+        10
       ]
     },
     {
@@ -431,20 +431,20 @@
       ],
       "name": "hololens_low_Untitled",
       "rotation": [
-        8.1460335366045911e-08,
+        8.1460342471473268e-08,
         0,
         0,
         1
       ],
       "scale": [
-        100,
-        100,
-        100
+        10,
+        10,
+        10
       ],
       "translation": [
-        604.39508056640625,
-        48.160652160644531,
-        -12.96384334564209
+        60.439498901367188,
+        0,
+        -1.2963999509811401
       ]
     },
     {
